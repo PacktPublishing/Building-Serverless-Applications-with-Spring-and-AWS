@@ -9,11 +9,13 @@ By the end of the course, you’ll be equipped with the knowledge to build scala
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Pass the Network+ certification exam with confidence 
-<LI>Describe computer networks, their functions, and their components 
-<LI>Subnet networks 
-<LI>Perform basic network configurations 
-<LI>Become an effective networking technician in a small-to-medium sized business environment </LI></UL></DIV>
+[*]Understand the concept of Serverless computing <br/>
+[*]Discover the common use cases, advantages, and limitations of serverless<br/>
+[*]Build a serverless application on AWS using Spring Cloud Functions<br/>
+[*]Enable better application interaction with AWS<br/>
+[*]Utilising the testing functionality in AWS <br/>
+[*]Use Spring Cloud Functions to implement AWS functions<br/>
+[*]Explore CloudWatch services to monitor your AWS Lambda functions</UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
